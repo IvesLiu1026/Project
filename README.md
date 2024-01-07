@@ -1,4 +1,4 @@
-## Group 6 AOOP Project
+## Project
 This repo aims to make a clone of Boomerang Fu using pygame. We will put the main game here.
 
 - Objective
